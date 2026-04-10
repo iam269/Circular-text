@@ -6,7 +6,7 @@ Enter a sentence in the input field and click submit to see your text arranged i
 
 ## 🚀 Live Demo
 
-Check out the live demo: [https://iam269.github.io/Circular-text/](https://iam269.github.io/Circular-text/)
+Check out the live demo: [https://iam269.github.io/Circular-text/](https://itsiamdev.github.io/Circular-text/)
 
 ## 🎯 Features
 
